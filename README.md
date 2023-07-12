@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a last year Data Science student at Warsaw University of Technology, interested in machine learning and data analysis.
+I'm a last year BSc Data Science student at Warsaw University of Technology, interested in machine learning and data analysis.
 
 My skills:
 * `python`
