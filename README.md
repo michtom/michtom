@@ -15,6 +15,7 @@ Featured projects:
 * [sound file analysis app](https://github.com/michtom/AiPD_proj1)
 * [Phone and PC activity app](https://github.com/michtom/Activity_App)
 * [predicting income level of different US citizens, clustering customers of an online shop](https://github.com/michtom/Introduction_to_Machine_Learning)
+* [MLP Neural Network from scratch](https://github.com/michtom/MLP-from-scratch)
 <!--
 **michtom/michtom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
